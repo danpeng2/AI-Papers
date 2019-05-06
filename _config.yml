@@ -6,5 +6,5 @@ highlighter: 'pygments'
 permalink: /:title
 
 title: AI
-url: http://hitdp.github.io
+url: https://danpeng2.github.io
 feed: /atom.xml
